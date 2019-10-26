@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Header from "../Header/header-component";
 import Main from "../Main/main-component";
 import Footer from "../Footer";
-import data from "../../data.json.js";
+import data from "../../data.json";
 import './style.css';
 
 export default class MemoryGame extends Component {
