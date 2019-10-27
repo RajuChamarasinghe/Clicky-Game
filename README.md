@@ -6,6 +6,7 @@ UI into components, manage component state, and respond to user events.
 
 ![alt text](https://recordit.co/MB4wlDxUAT.gif)
 
+
 ### Setup/Usage/How to 
 #### Directory structure
 The files and directories from the steps above should look like the following structure:
