@@ -3,7 +3,8 @@
 ### Overview 
 * This is a memory game with React. This assignment break up the application's 
 UI into components, manage component state, and respond to user events.
-![alt text](https://recordit.co/wLE81IT7yO.gif)
+
+![alt text](https://recordit.co/MB4wlDxUAT.gif)
 
 ### Setup/Usage/How to 
 #### Directory structure
@@ -59,15 +60,12 @@ The files and directories from the steps above should look like the following st
 │
 ├── .gitignore
 ├── .netlify
-├── .package-lock.json
-├── .package.json
+├── package-lock.json
+├── package.json
 └── README.md
     
 ```
 ##### Step 2.
 Terminal/Bash commands.   
-![alt text](http://recordit.co/nq0U4u821O.gif) 
-
-### FAQ/Troubleshoot  
-Cannot delete the added burgers list from presentation layer(front end).
+![alt text](https://recordit.co/v6jqmxQwsx.gif) 
 
