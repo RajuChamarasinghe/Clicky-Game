@@ -1,4 +1,3 @@
-# Clicky Game
 
 ### Overview 
 * This is a memory game with React. This assignment break up the application's 
